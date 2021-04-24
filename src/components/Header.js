@@ -1,9 +1,9 @@
 import React from 'react'
 
 export const Header = () => {
-    return (
-        <h1>
-            Expense Tracker App by Ahmad Hussain
-        </h1>
-    )
+  return (
+    <h2>
+      Expense Tracker App by Ahmad Hussain
+    </h2>
+  )
 }
