@@ -1,4 +1,6 @@
 import React from 'react';
+
+//Import Components and Context
 import { Header } from './components/Header';
 import { Balance } from './components/Balance';
 import { IncomeExpenses } from './components/IncomeExpenses';
